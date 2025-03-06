@@ -8,6 +8,9 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
+  <remote  name="lineage"
+           fetch="https://github.com/lineageos"
+
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
